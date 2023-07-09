@@ -3,8 +3,10 @@
 
 - 🔭 I’m currently working on **Data Structures** and **ML Projects** if you feel like asking something please go ahead with the questions.
 - 💬 Ask me about the repoisitories I have and I am pretty sure you will get the answers.
-- 📫 Apart from coding - I am kinda **Wanderlust** and **Guitarist.** Indoor I will be more of a **Content Creator.**
-- ⚡ Fun fact: I do streaming so if you are interested **[Youtube](https://www.youtube.com/channel/UCgWYhUU0JbTQ5eaghgXPmZA)** or **[Facebook](https://www.facebook.com/RazorCloak)**
+- 📫 Apart from coding - I am kinda **Wanderlust** and **Adventurous.** Indoor I will be more of a **Content Creator.**
+- ⚡ Interesting fact: As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+
+That's why I like to make things that make a difference.
 
 
 <p align="center">
@@ -35,6 +37,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adarsh007/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_adarshere_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sd-reyanul/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/syed_reyanul_haque/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
