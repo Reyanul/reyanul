@@ -126,7 +126,7 @@ const Home = () => {
                         <Image src={Avatar} alt="Adarsh Anand Image" className="Hero-Image" roundedCircle fluid />
                     </Col>
                     <Col md={6} className='text-section'>
-                        <p className='name-tag'>Hi, Adarsh here !</p>
+                        <p className='name-tag'>Hi, I am Syed !</p>
                         <p>
                             I am a<ReactTyped className="sub-name-tag" strings={["‎ coder 📜","‎ developer 🖥️","‎ techie 🤖","‎ content-creator 🎥","n artist 👨‍🎨"]} typeSpeed={80} backSpeed={40} loop/>
                         </p>
