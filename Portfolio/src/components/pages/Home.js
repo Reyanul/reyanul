@@ -123,7 +123,7 @@ const Home = () => {
                         }}
                     />
                     <Col md={6} className='image-section'>
-                        <Image src={Avatar} style={{height: '300px', width: '280px'}} alt="Adarsh Anand Image" className="Hero-Image" roundedCircle fluid />
+                        <Image src={Avatar} style={{height: '300px', width: '280px'}} alt="Syed Image" className="Hero-Image" roundedCircle fluid />
                     </Col>
                     <Col md={6} className='text-section'>
                         <p className='name-tag'>Hi, I am Syed !</p>
@@ -134,7 +134,7 @@ const Home = () => {
                 </Row>
                 <Row className='align-items-center home-row-bio'>
                     <p className='text-section-bio'>
-                        <span className='home-row-bio-capitalized'>I</span> am a <a href="https://en.wikipedia.org/wiki/hacker" target="_black" rel="noopener noreferrer">hacker⁽⁺⁾</a> 👋🏻. Deeply curious about technology and social-engineering, I graduated from <a href="https://www.reva.edu.in/" target="_blank" rel="noopener noreferrer">Reva University⁽⁺⁾</a> as an Engineer with a Bachelor's in computer science.
+                        <span className='home-row-bio-capitalized'>I</span> am a <a href="https://en.wikipedia.org/wiki/hacker" target="_black" rel="noopener noreferrer">hacker⁽⁺⁾</a> 👋🏻. Deeply curious about technology and social-engineering, I graduated from <a href="https://www.https://www.mguindia.com/.edu.in/" target="_blank" rel="noopener noreferrer"> Mansarovar Global University⁽⁺⁾</a> as an Engineer with a Bachelor's in computer science.
                         <br /><br />
                         I started developing websites at an early age for various startups, became a webmaster for various universities, IEEE, and IISc Bangalore events, and also wrote a research paper on <a href="http://www.testmagzine.biz/index.php/testmagzine/article/view/8343/6317" target='_blank' rel="noopener noreferrer">Virtual Assistants based on User Preferences⁽⁺⁾</a>
                         <br /><br />
