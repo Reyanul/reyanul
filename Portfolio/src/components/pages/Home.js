@@ -1,5 +1,5 @@
 import '../styles/Home.css'
-import Avatar from '../static/avatar.jpg'
+import Avatar from '../static/syed.jpg'
 import Avatar1 from '../static/avatar1.jpg'
 import Avatar2 from '../static/avatar2.jpg'
 import a1 from '../static/a1.gif'
@@ -123,7 +123,7 @@ const Home = () => {
                         }}
                     />
                     <Col md={6} className='image-section'>
-                        <Image src={Avatar} alt="Adarsh Anand Image" className="Hero-Image" roundedCircle fluid />
+                        <Image src={Avatar} style={{height: '300px', width: '280px'}} alt="Adarsh Anand Image" className="Hero-Image" roundedCircle fluid />
                     </Col>
                     <Col md={6} className='text-section'>
                         <p className='name-tag'>Hi, I am Syed !</p>

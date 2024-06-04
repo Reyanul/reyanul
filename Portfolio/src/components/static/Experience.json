@@ -15,6 +15,11 @@
                 "color":"primary"
                 },
                 {
+                    "tag": "Amit",
+                    "text" : "dark",
+                    "color": "danger"
+                },
+                {
                 "tag": "JSON",
                 "color":"warning",
                 "text": "dark"
