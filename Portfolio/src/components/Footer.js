@@ -12,16 +12,16 @@ class Footer extends React.Component {
                 </Row>
                 <Row className="justify-content-center social-row mt-2">
                     <Col md={3} xs={6} className="social-column">
-                        <FaEnvelope className="social-icon" /><a href="mailto:syedreyanulhaque@gmail.com" target="_blank" rel="noreferrer"> Adarsh Anand</a>
+                        <FaEnvelope className="social-icon" /><a href="mailto:syedreyanulhaque@gmail.com" target="_blank" rel="noreferrer"> SD Reyanul Haque</a>
                     </Col>
                     <Col md={3} xs={6} className="social-column">
-                        <FaGithub className="social-icon" /><a href="https://github.com/Reyanul" target="_blank" rel="noreferrer"> AdarshRazor</a>
+                        <FaGithub className="social-icon" /><a href="https://github.com/Reyanul" target="_blank" rel="noreferrer"> Reyanul</a>
                     </Col>
                     <Col md={3} xs={6} className="social-column">
-                        <FaYoutube className="social-icon" /><a href="https://www.youtube.com/@reyanul786" target="_blank" rel="noreferrer"> RazorCloak</a>
+                        <FaYoutube className="social-icon" /><a href="https://www.youtube.com/@reyanul786" target="_blank" rel="noreferrer"> Reyanul</a>
                     </Col>
                     <Col md={3} xs={6} className="social-column">
-                        <FaLinkedin className="social-icon" /><a href="https://www.linkedin.com/in/sdreyanulhaque/" target="_blank" rel="noreferrer"> adarsh007</a>
+                        <FaLinkedin className="social-icon" /><a href="https://www.linkedin.com/in/sdreyanulhaque/" target="_blank" rel="noreferrer"> Reyanul</a>
                     </Col>
                 </Row>
             </Container>
