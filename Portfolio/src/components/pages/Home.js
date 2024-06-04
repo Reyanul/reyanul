@@ -1,6 +1,6 @@
 import '../styles/Home.css'
 import Avatar from '../static/syed.jpg'
-import Avatar1 from '../static/avatar1.jpg'
+import Avatar1 from '../static/syed1.jpg'
 import Avatar2 from '../static/avatar2.jpg'
 import a1 from '../static/a1.gif'
 import { Container, Row, Col, Image, Card, Button, Alert } from 'react-bootstrap';
